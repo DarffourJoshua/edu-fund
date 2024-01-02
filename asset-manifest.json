@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edu-fund/static/css/main.14a18924.css",
+    "main.js": "/edu-fund/static/js/main.56eec172.js",
+    "static/js/787.181bcf0c.chunk.js": "/edu-fund/static/js/787.181bcf0c.chunk.js",
+    "index.html": "/edu-fund/index.html",
+    "main.14a18924.css.map": "/edu-fund/static/css/main.14a18924.css.map",
+    "main.56eec172.js.map": "/edu-fund/static/js/main.56eec172.js.map",
+    "787.181bcf0c.chunk.js.map": "/edu-fund/static/js/787.181bcf0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a18924.css",
+    "static/js/main.56eec172.js"
+  ]
+}
