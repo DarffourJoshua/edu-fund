@@ -62,7 +62,7 @@ export default function Header() {
                 </article>
                 <article>
                     <img 
-                        src="https://www.edufundgh.org/assets/img/edufund-hero-image.png" 
+                        src="https://edufundgh.org/landing/assets/img/edufund-hero-image.png" 
                         alt="info-img"
                         className="w-80"
                     />
