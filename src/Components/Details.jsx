@@ -6,14 +6,14 @@ export default function Details() {
                     <span className="text-zinc-400 ">GET STARTED AS A </span>
                     <h3 className="text-4xl my-10">Funder (Investor)</h3>
                     <img 
-                        src="https://www.edufundgh.org/assets/img/search_icon.svg" 
+                        src="https://edufundgh.org/landing/assets/img/search_icon.svg" 
                         alt="search-icon"
                         className="w-6 mb-2"
                     />
                     <h5 className="font-bold">Find a Fund Request</h5>
                     <p className="mb-5">Start by selecting a student you would like to support </p>
                     <img 
-                        src="https://www.edufundgh.org/assets/img/donation_icon.svg" 
+                        src="https://edufundgh.org/landing/assets/img/donation_icon.svg" 
                         alt="funding-icon"
                         className="w-6 mb-2"
                     />
@@ -22,7 +22,7 @@ export default function Details() {
                </div>
                <div>
                     <img 
-                        src="https://edufundgh.org/landing/assets/img/student.svg" 
+                        src="https://edufundgh.org/landing/assets/img/funders.svg" 
                         alt="funding-img"
                         className="detailsImg"
                     />
@@ -31,7 +31,7 @@ export default function Details() {
             <article className='flex justify-evenly'>
                
                     <img 
-                        src="https://www.edufundgh.org/assets/img/student.svg"
+                        src="https://edufundgh.org/landing/assets/img/student.svg"
                         alt="fundee-img"
                         className="w-72 detailsImg self-center"
                     />
@@ -48,7 +48,7 @@ export default function Details() {
                     <p className="mb-5">Tell your story and submit a request for the amount you need </p>
                     
                     <img 
-                        src="https://www.edufundgh.org/assets/img/share_icon.svg" 
+                        src="https://edufundgh.org/landing/assets/img/apply_icon.svg" 
                         alt="sharing-img"
                         className="w-6 mb-2"
                     />
@@ -56,12 +56,17 @@ export default function Details() {
                     <p className="mb-5"> Share your approved request on social media platforms </p>
                     
                     <img 
-                        src="https://www.edufundgh.org/assets/img/document_icon.svg" 
+                        src="https://edufundgh.org/landing/assets/img/share_icon.svg" 
                         alt="receive-funds-img"
                         className="w-6 mb-2"
                     />
                     <h5>Receive Funds </h5>
                     <p className="mb-5">Get contributions from people around the globe </p>
+                    <img 
+                        src="https://edufundgh.org/landing/assets/img/document_icon.svg" 
+                        alt="receive-funds-img"
+                        className="w-6 mb-2"
+                    />
                 </div>
             </article>
         </section>
