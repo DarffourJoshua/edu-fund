@@ -22,7 +22,7 @@ function Download() {
             <button className=" bg-lime-600 text-white w-64 ml-auto mr-auto mt-5 rounded-sm py-2">
                 <a className="flex justify-center items-center" href="https://play.google.com/store/apps/details?id=com.anudsc.edufundgh" target="_blank" rel="noreferrer">
                 <img 
-                    src="https://www.edufundgh.org/assets/img/google_play.svg" 
+                    src="https://edufundgh.org/landing/assets/img/google_play.svg" 
                     alt="playstore-img"
                     className="w-8 mr-1.5"
                 />
@@ -40,14 +40,14 @@ function SponsersAndPartners() {
             <div className="flex">
                 <a href="http://step-inapconsult.com/" target="_blank" rel="noreferrer">
                     <img 
-                        src="https://www.edufundgh.org/assets/img/stepinap_logo.svg" 
+                        src="https://edufundgh.org/landing/assets/img/stepinap_logo.svg" 
                         alt="SP1"
                         className="ml-20"
                     />
                 </a>
                 <a href="https://gdsc.community.dev/all-nations-university/" target="_blank" rel="noreferrer">
                     <img 
-                        src="https://www.edufundgh.org/assets/img/anudsc_logo.svg" 
+                        src="https://edufundgh.org/landing/assets/img/anudsc_logo.svg" 
                         alt="SP2"
                         className="ml-10"
                     />
