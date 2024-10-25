@@ -3,7 +3,7 @@ export default function Footer() {
         <footer className="flex justify-between items-center p-10 bg-lime-900">
             <div>
                 <img 
-                    src="https://www.edufundgh.org/assets/img/edufund-logo.svg" 
+                    src="https://edufundgh.org/landing/assets/img/edufund-hero-image.png" 
                     alt="footer-img"
                     className="w-32"
                 /> 
