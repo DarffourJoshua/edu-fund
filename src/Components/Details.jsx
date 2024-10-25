@@ -22,7 +22,7 @@ export default function Details() {
                </div>
                <div>
                     <img 
-                        src="https://www.edufundgh.org/assets/img/funders.svg" 
+                        src="https://edufundgh.org/landing/assets/img/student.svg" 
                         alt="funding-img"
                         className="detailsImg"
                     />
