@@ -9,7 +9,7 @@ export default function Header() {
         <header className="h-screen px-10">
             <div className="flex p-10 header-div">
                 <img 
-                    src="https://www.edufundgh.org/assets/img/edufund-logo.svg"
+                    src="https://edufundgh.org/landing/assets/img/edufund-hero-image.png"
                     alt="header-logo"
                     onClick={handleClick}
                     className="w-32 mr-auto header-logo"
